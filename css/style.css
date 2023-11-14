@@ -1,0 +1,12 @@
+.container{
+    width: 70%;
+    margin: auto;
+    background-color: #FAD9B8;
+}
+body{
+background-color: #D99B5E;
+}
+
+.container-fluid{
+    width: 80%;
+}
